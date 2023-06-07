@@ -1,0 +1,10 @@
+# input tensors
+[[1,2],[3,3]]
+[[2,2],[3,4]]
+
+# output tensors
+[[3,4],[6,7]]
+
+# Requirement
+T
+T
